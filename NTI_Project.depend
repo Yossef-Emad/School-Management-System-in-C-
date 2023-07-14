@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659890011 source:e:\nti_project2022\nti_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Student.h"
+	"stdbool.h"
+
+1659894011 e:\nti_project2022\nti_project\student.h
+	"stdbool.h"
+
+1659894011 source:e:\nti_project2022\nti_project\student.c
+	"Student.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
